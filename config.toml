@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://BI1RG.github.io/"
+baseURL = "https://bi1rg.github.io/"
 title = "BI1RG Satellites Projects"
 languageCode = "en"
 hasCJKLanguage = true

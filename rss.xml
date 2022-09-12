@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BI1RG Satellites Projects</title>
+        <link>https://bi1rg.github.io/</link>
+        <description>BI1RG Satellites Projects.</description>
+        <generator>Hugo 0.101.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>bi1rg@bi1rg.space (BI1RG)</managingEditor>
+        
+        
+            <webMaster>bi1rg@bi1rg.space (BI1RG)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Mon, 12 Sep 2022 23:24:57 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://bi1rg.github.io/rss.xml" />
+        
+        
+    </channel>
+</rss>
