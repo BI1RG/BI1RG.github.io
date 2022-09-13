@@ -28,7 +28,7 @@ pluralizeListTitles = false
 summaryLength = 42
 
 # Enable Emoji emoticons support?
-enableEmoji = false
+enableEmoji = true
 
 # Text to display for footnote return links
 footnoteReturnLinkContents = "↩"
@@ -101,17 +101,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "BI1RG"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "bi1rg@bi1rg.space"
     # Motto or introduction
     motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://bi1rg.github.io/"
     # Twitter
-    twitter = "reuixiy"
+    # twitter = "reuixiy"
 
 # Related content
 [related]
@@ -356,15 +356,15 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "BI1RG Satellites Project Public Information"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2022-09-01T00:00:00+08:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    # siteTwitter = "reuixiy"
     # Note: used for Twitter Cards
 
 
