@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">BI1RG Satellites Project</title>
     <subtitle type="html">BI1RG Satellites Project Public Information</subtitle>
-    <updated>2022-09-13T22:04:44&#43;08:00</updated>
+    <updated>2022-09-13T23:25:20&#43;08:00</updated>
     <id>https://bi1rg.github.io/</id>
     <link rel="alternate" type="text/html" href="https://bi1rg.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://bi1rg.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">BY70-8 Mission &amp; Link Budget</title>
             <link rel="alternate" type="text/html" href="https://bi1rg.github.io/posts/by70-8/" />
             <id>https://bi1rg.github.io/posts/by70-8/</id>
-            <updated>2022-09-13T19:42:19&#43;08:00</updated>
+            <updated>2022-09-13T23:23:34&#43;08:00</updated>
             <published>2022-09-13T00:00:00&#43;08:00</published>
             <author>
                     <name>BI1RG</name>
@@ -388,7 +388,6 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;below-to-be-update&#34;&gt;below to be update&lt;/h1&gt;
 &lt;h2 id=&#34;vhf-nbfm-transponder-downlink&#34;&gt;VHF NBFM Transponder Downlink&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
