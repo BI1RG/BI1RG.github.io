@@ -1,6 +1,9 @@
 ---
 title: "CRAC-01 Mission & Link Budget"
 date: 2022-09-14T00:00:00+08:00
+tags: ["CRAC-01","Small Satellite","Mission Brief"]
+categories:
+  - "Link Budget"
 draft: false
 ---
 

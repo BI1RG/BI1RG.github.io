@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">BI1RG Satellites Project</title>
     <subtitle type="html">BI1RG Satellites Project Public Information</subtitle>
-    <updated>2022-09-14T13:39:10&#43;08:00</updated>
+    <updated>2022-09-14T17:04:52&#43;08:00</updated>
     <id>https://bi1rg.github.io/</id>
     <link rel="alternate" type="text/html" href="https://bi1rg.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://bi1rg.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">CRAC-01 Mission &amp; Link Budget</title>
             <link rel="alternate" type="text/html" href="https://bi1rg.github.io/posts/crac-01/" />
             <id>https://bi1rg.github.io/posts/crac-01/</id>
-            <updated>2022-09-14T13:38:40&#43;08:00</updated>
+            <updated>2022-09-14T17:03:46&#43;08:00</updated>
             <published>2022-09-14T00:00:00&#43;08:00</published>
             <author>
                     <name>BI1RG</name>
@@ -893,7 +893,35 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/categories/link-budget/" term="Link Budget" label="Link Budget" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/tags/crac-01/" term="CRAC-01" label="CRAC-01" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/tags/small-satellite/" term="Small Satellite" label="Small Satellite" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/tags/mission-brief/" term="Mission Brief" label="Mission Brief" />
+                            
+                        
                     
                 
             
@@ -903,7 +931,7 @@
             <title type="text">BY70-8 Mission &amp; Link Budget</title>
             <link rel="alternate" type="text/html" href="https://bi1rg.github.io/posts/by70-8/" />
             <id>https://bi1rg.github.io/posts/by70-8/</id>
-            <updated>2022-09-14T13:38:12&#43;08:00</updated>
+            <updated>2022-09-14T17:03:22&#43;08:00</updated>
             <published>2022-09-13T00:00:00&#43;08:00</published>
             <author>
                     <name>BI1RG</name>
@@ -1768,7 +1796,35 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/categories/link-budget/" term="Link Budget" label="Link Budget" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/tags/by70-8/" term="BY70-8" label="BY70-8" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/tags/small-satellite/" term="Small Satellite" label="Small Satellite" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://bi1rg.github.io/tags/mission-brief/" term="Mission Brief" label="Mission Brief" />
+                            
+                        
                     
                 
             
